@@ -4,4 +4,5 @@ from . import views
 
 urlpatterns =[
   path('',views.index, name='index'), #this url goto posts/index or post/ post index view
+  path('details/<int:id>/', views.details, name='details'),
 ]
