@@ -1,0 +1,3 @@
+for virtualenv-> virtualenv djblog
+then activate virtualenv ->
+install django
