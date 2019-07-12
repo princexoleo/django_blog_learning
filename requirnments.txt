@@ -1,3 +1,4 @@
 for virtualenv-> virtualenv djblog
 then activate virtualenv ->
-install django
+install django ==>pip install django
+install mysqliclient ==> pip install mysqlclient
